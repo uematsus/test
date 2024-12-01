@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<infolist>
+    <item>
+        <id>1</id>
+        <title>TEST TITLE A</title>
+        <description>
+            text
+            text
+            text
+            text
+            text
+            text
+
+            text
+            text
+            text
+            text
+
+            text
+            text
+
+        </description>
+    </item>
+    <item>
+        <id>2</id>
+        <title>TEST TITLE B</title>
+        <description>
+            12345
+            1234567
+            12345
+
+            1234567
+            1234567
+        </description>
+    </item>
+</infolist>
